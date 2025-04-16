@@ -1,1 +1,1 @@
-::: src.snap_package_template
+::: src.trabalho_mecanica_dos_solidos
